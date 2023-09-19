@@ -1,0 +1,1 @@
+# rpg-resources-manager-server
